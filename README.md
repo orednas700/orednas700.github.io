@@ -1,2 +1,2 @@
-# orednas700.github.io
-This is my portfolio
+# Projects
+These are some of my portfolio projects
